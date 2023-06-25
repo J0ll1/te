@@ -27,7 +27,7 @@ print(animaldomestico<=Animalsalvaje)
 print(animaldomestico>=Animalsalvaje)
 #Operadores Logicos
 bencina=True
-encendido=True
+encendido=False
 edad=19
 if bencina and encendido:
     print("El vehiculo puede avanzar")
